@@ -1,15 +1,27 @@
 Anastasya Rahma Juniarti / 1202190058 / IT0201
 ### Ujian Tengah Semester Sistem Administrasi Server 
 #### Tutorial Install Windows Server 2022 Pada Virtual Box
-Download Windows Server pada link ini [Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
-> Download Windows Server 
+## Instalasi
+- Download Windows Server pada link ini [Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
+  ```bash
+  Download Windows Server. Pilih Download iso
+  ```
 <img src="Pict-UTS-SAS/1.png">
-> Isi data diri 
+
+Isi data diri
+  ```bash
+  Isi data diri lalu continue
+  ```
 <img src="Pict-UTS-SAS/2.png">
-> Pilih bahasa yang akan digunakan
+
+Pilih bahasa yang akan digunakan
+  ```bash
+  Pilih bahasa lalu klik download
+  ```
 <img src="Pict-UTS-SAS/3.png">
-> Save file
+Pilih save file. File akan terdownload
 <img src="Pict-UTS-SAS/4.png">
+
 <img src="Pict-UTS-SAS/5.png">
 <img src="Pict-UTS-SAS/6.png">
 <img src="Pict-UTS-SAS/7.png">
