@@ -186,7 +186,7 @@ Anastasya Rahma Juniarti / 1202190058 / IT0201
 ## Instalasi Active Directory Domain Services, DNS Server, Net Framework 3.5
 - Start Windows Server 2022
     ```bash
-  Buka Windows PowerShell. Llau ubah nama windows agar lebih mudah menghafalkan namanya
+  Buka Windows PowerShell. Lalu ubah nama windows agar lebih mudah menghafalkan namanya
   ```
   <img src="Pict-UTS-SAS/ad1.PNG">
 
