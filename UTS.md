@@ -309,7 +309,7 @@ Anastasya Rahma Juniarti / 1202190058 / IT0201
   <img src="Pict-UTS-SAS/ad25.png">
 
   ```bash
-  Pilih disk space. Lalu next
+  Tekan next
   ```
   <img src="Pict-UTS-SAS/ad26.png">
 
