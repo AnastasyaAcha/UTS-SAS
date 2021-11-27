@@ -384,7 +384,7 @@ Anastasya Rahma Juniarti / 1202190058 / IT0201
   <img src="Pict-UTS-SAS/ad40.png">
 
 
-Demikian Laporan ini untuk memenuhi penilaian UTS System Adminstrasi Server
+Demikian Laporan ini untuk memenuhi syarat penilaian UTS System Adminstrasi Server
 
   
   
