@@ -76,7 +76,7 @@ Anastasya Rahma Juniarti / 1202190058 / IT0201
   <img src="Pict-UTS-SAS/14.png">
 
   ```bash
-  Cari file .iso yang telah terdownload. Lalu pilih
+  Cari file iso yang telah terdownload. Lalu pilih
   ```
   <img src="Pict-UTS-SAS/15.png">
 
@@ -183,12 +183,12 @@ Anastasya Rahma Juniarti / 1202190058 / IT0201
   <img src="Pict-UTS-SAS/40.png">
 
 
-## Instalasi Active Direktory Domain Services, DNS Server, Net Framework 3.5
+## Instalasi Active Directory Domain Services, DNS Server, Net Framework 3.5
 - Start Windows Server 2022
     ```bash
   Buka Windows PowerShell. Llau ubah nama windows agar lebih mudah menghafalkan namanya
   ```
-  <img src="Pict-UTS-SAS/ad1.png">
+  <img src="Pict-UTS-SAS/ad1.PNG">
 
   ```bash
   Restart windows server
